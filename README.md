@@ -1,2 +1,2 @@
 # Computer-Networks
-This is Assignment 1 and Assignment 2
+Video Streaming implemented with Python
